@@ -1,0 +1,11 @@
+{
+  "name": "Artwork 2",
+  "description": "A sombre yet vibrant usage of reds and purples",
+  "image": "ipfs://QmXJoyNKT7Qosqe4CzBykdqHwjT6RxXoMa5PnHRdXSGKhs",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Paul Blenkhorn"
+    }
+  ]
+}

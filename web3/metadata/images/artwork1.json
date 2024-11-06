@@ -1,0 +1,11 @@
+{
+  "name": "Artwork 1",
+  "description": "A suave display of smooth warm colours",
+  "image": "ipfs://QmcDgem6A8c2msFSBdmCLETAxg1nPiLPeAv2ZqHEt8QzyL",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "USGS"
+    }
+  ]
+}

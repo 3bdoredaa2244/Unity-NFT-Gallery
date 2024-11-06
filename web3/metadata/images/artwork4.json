@@ -1,0 +1,11 @@
+{
+  "name": "Artwork 4",
+  "description": "A brooding depiction of a cloud-like pattern",
+  "image": "ipfs://QmRtAz9bJtAzDyxyzZDKXKAfCajB983FMQ2YoTZR5R94hN",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "USGS"
+    }
+  ]
+}

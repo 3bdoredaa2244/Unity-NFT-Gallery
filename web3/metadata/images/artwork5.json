@@ -1,0 +1,11 @@
+{
+  "name": "Artwork 5",
+  "description": "A striking rendition of an abstact river using yellows and blues",
+  "image": "ipfs://QmQ5bfbmYyYZzzBr5tJm5GCSSEmY7fEYdeDQsQACuevA8B",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Marie Lucia"
+    }
+  ]
+}

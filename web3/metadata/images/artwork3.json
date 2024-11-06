@@ -1,0 +1,11 @@
+{
+  "name": "Artwork 3",
+  "description": "A crisp application of different shades of blue",
+  "image": "ipfs://Qmcy9qe7t1d7W7BdLPHh6WTzYdHmP22u1ESnXphSTCAiNq",
+  "attributes": [
+    {
+      "trait_type": "Author",
+      "value": "Markus Spiske"
+    }
+  ]
+}
